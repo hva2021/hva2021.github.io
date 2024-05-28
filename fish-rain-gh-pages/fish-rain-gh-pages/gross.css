@@ -1,0 +1,71 @@
+#testbutton {
+  font-family: 'arial black';
+  color: #FFFFFF !important;
+  font-size: 12px;
+  text-shadow: 2px 2px 2px #00020F;
+  box-shadow: 1px 1px 5px #000000;
+  padding: 10px 20px;
+  border-radius: 6px;
+  border: 1px solid #000000;
+  background-color: rgba(0, 25, 0, 0.5);
+}
+#testbutton:hover {
+  color: #FFFFFF !important;
+  background-color: rgba(0, 25, 0, 0.5);
+}
+
+/* Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #397524 #DFE9EB;
+}
+
+/* Chrome, Edge and Safari */
+*::-webkit-scrollbar {
+  width: 10px;
+  width: 10px;
+}
+*::-webkit-scrollbar-track {
+  border-radius: 5px;
+  background-color: rgba(0, 50, 0, 0.50);
+  border: 1px solid #000000;
+}
+
+*::-webkit-scrollbar-track:hover {
+  background-color: rgba(0, 50, 0, 0.50);
+}
+
+*::-webkit-scrollbar-track:active {
+  background-color: rgba(0, 50, 0, 0.50);
+}
+
+*::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  background-color: #397524;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background-color: #62A34B;
+}
+
+*::-webkit-scrollbar-thumb:active {
+  background-color: #62A34B;
+}
+
+#testbutton3 {
+  font-family: 'trebuchet ms';
+  font-weight: bold;
+  color: #11315C !important;
+  font-size: 12px;
+  box-shadow: 1px 1px 1px #BEE2F9;
+  padding: 10px 25px;
+  border-radius: 6px;
+  border: 1px solid #3866A3;
+  background: #FFFFFF;
+  background: linear-gradient(to top, #FFFFFF, #EEEEEE);
+}
+#testbutton3:hover {
+  color: #11315C !important;
+  background: #FFFFFF;
+  background: linear-gradient(to top, #FFFFFF, #EEEEEE);
+}

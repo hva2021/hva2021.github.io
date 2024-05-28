@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "fishing-game.data.unityweb",
+"asmCodeUrl": "fishing-game.asm.code.unityweb",
+"asmMemoryUrl": "fishing-game.asm.memory.unityweb",
+"asmFrameworkUrl": "fishing-game.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
