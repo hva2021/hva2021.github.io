@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<stringresources>
+    <strings>
+
+        <string id="INSTRUCTIONS" index="7">
+            <en>INSTRUCTIONS</en>
+            <es>INSTRUCCIONES</es>
+            <de>ANWEISUNGEN</de>
+            <it>ISTRUZIONI</it>
+            <fr>INSTRUCTIONS</fr>
+            <ru>ИНСТРУКЦИИ</ru>
+            <pt>INSTRUÇÕES</pt>
+            <nl>INSTRUKTIONER</nl>
+            <no>BRUKSANVISNING</no>
+        </string>
+
+        <string id="RESET">
+            <en>RESET</en>
+            <es>RESTABLECER</es>
+            <de>ZURÜCKSETZEN</de>
+            <it>AZZERA</it>
+            <fr>RÉINITIALISER</fr>
+            <ru>ПОВТОРНАЯ УСТАНОВКА</ru>
+            <pt>RETOMAR</pt>
+            <nl>ÅTERSTÄLLA</nl>
+            <no>NULLSTILLE</no>
+        </string>
+
+        <string id="CONFIRM_RESET">
+            <en>RESET?\nYOUR CURRENT GAME PROGRESS WILL BE LOST.</en>
+            <es>¿RESTABLECER?\nSE PERDERÁ EL PROGRESO ACTUAL.</es>
+            <de>ZURÜCKSETZEN?\nDEIN AKTUELLER SPIELFORTSCHRITT\nWIRD GELÖSCHT.</de>
+            <it>AZZERA?\nI TUOI PROGRESSI DI GIOCO ATTUALI\nANDRANNO PERDUTI.</it>
+            <fr>RÉINITIALISER?\nVOTRE PROGRESSION ACTUELLE\nDANS LE JEU SERA PERDUE.</fr>
+            <ru>СБРОСИТЬ?\nВАШ ТЕКУЩИЙ ИГРОВОЙ\nПРОГРЕСС БУДЕТ ПОТЕРЯН.</ru>
+            <pt>RETOMAR?\nA TUA ACTUAL EVOLUÇÃO DO\nJOGO SERÁ PERDIDA!</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="CONTINUE" index="85">
+            <en>CONTINUE</en>
+            <es>CONTINUAR</es>
+            <de>WEITER</de>
+            <it>CONTINUARE</it>
+            <fr>CONTINUER</fr>
+            <ru>ПРОДОЛЖИТЬ</ru>
+            <pt>CONTINUAR</pt>
+            <nl>FORTSÄTTA</nl>
+            <no>FORTSETTE</no>
+        </string>
+
+        <string id="RESTART" index="89">
+            <en>RESTART</en>
+            <es>REINICIAR</es>
+            <de>NEUSTART</de>
+            <it>RIAVVIARE</it>
+            <fr>RECOMMENCER</fr>
+            <ru>ЗАПУСТИТЬ СНОВА</ru>
+            <pt>REINICIAR</pt>
+            <nl>OMSTART</nl>
+            <no>OMSTART</no>
+        </string>
+
+        <string id="RESTART_QUESTION" index="89">
+            <en>RESTART?</en>
+            <es>¿REINICIAR?</es>
+            <de>NEUSTART?</de>
+            <it>RIAVVIARE?</it>
+            <fr>RECOMMENCER?</fr>
+            <ru>ЗАПУСТИТЬ СНОВА?</ru>
+            <pt>REINICIAR?</pt>
+        </string>
+
+        <string id="LANGUAGES">
+            <en>LANGUAGES</en>
+            <de>SPRACHEN</de>
+            <es>IDIOMAS</es>
+            <fr>LANGUES</fr>
+            <br>IDIOMAS</br>
+            <it>LINGUE</it>
+            <pt>LÍNGUAS</pt>
+            <ru>ЯЗЫК</ru>
+            <nl>SPRÅK</nl>
+        </string>
+
+        <string id="PAUSED" index="7">
+            <en>Paused</en>
+            <es>Pausa</es>
+            <de>Angehalten</de>
+            <it>Pausa</it>
+            <fr>Pause</fr>
+            <ru>Пауза</ru>
+            <pt>Pausado</pt>
+            <nl>Pauzeren</nl>
+            <no>Pauset</no>
+        </string>
+
+        <string id="TAP_TO_PLAY">
+            <en>TAP TO PLAY</en>
+            <es>TOQUE PARA JUGAR</es>
+            <de>BERÜHRE UM ZU SPIELEN</de>
+            <it>TOCCA PER GIOCARE</it>
+            <fr>APPUYEZ POUR JOUER</fr>
+            <ru>Нажмите, чтобы играть</ru>
+            <pt>TOQUE PARA JOGAR</pt>
+            <nl>TRYCK FÖR ATT SPELA</nl>
+            <no>Tapp for å spille</no>
+        </string>
+
+        <string id="DEPTH">
+            <en>DEPTH</en>
+            <es>PROFUNDIDAD</es>
+            <de>TIEFE</de>
+            <it>PROFONDITÀ</it>
+            <fr>PROFONDEUR</fr>
+            <ru>ГЛУБИНА</ru>
+            <pt>PROFUNDIDADE</pt>
+            <nl>DJUP</nl>
+            <no>DYBDE</no>
+        </string>
+
+        <string id="BUCKET_SIZE">
+            <en>BUCKET SIZE</en>
+            <es>tamaño del cubo</es>
+            <de>Kübelrösse</de>
+            <it>dimensione\ndel secchio</it>
+            <fr>taille du godet</fr>
+            <ru>размер ковша</ru>
+            <pt>tamanho\ndo balde</pt>
+            <nl>hinkstorlek</nl>
+            <no>bøttestørrelse</no>
+        </string>
+
+        <string id="FISH_PRICE">
+            <en>price</en>
+            <es>PRECIO\nDE PESCADO</es>
+            <de>FISCHPREIS</de>
+            <it>PREZZO\nDI PESCE</it>
+            <fr>PRIX\nDU POISSON</fr>
+            <ru>РЫБНАЯ ЦЕНА</ru>
+            <pt>PREÇO\nDOS PEIXES</pt>
+            <nl>FISKEPRIS</nl>
+            <no>FISKEPRIS</no>
+        </string>
+
+        <string id="TROPHY_ROOM">
+            <en>TROPHY ROOM</en>
+            <es>CUARTO DE TROFEOS</es>
+            <de>TROPHÄEN-RAUM</de>
+            <it>STANZA DEI TROFEI</it>
+            <fr>SALLE DES TROPHÉES</fr>
+            <ru>ТРОФЕЙНАЯ КОМНАТА</ru>
+            <pt>SALA DE TROFÉUS</pt>
+            <nl>TROFÉ RUM</nl>
+            <no>TROFYROM</no>
+        </string>
+
+        <string id="CLAIM">
+            <en>CLAIM</en>
+            <es>RECLAMACIÓN</es>
+            <de>ANSPRUCH</de>
+            <it>RICHIESTA</it>
+            <fr>PRÉTENDRE</fr>
+            <ru>ЗАПРОС</ru>
+            <pt>AFIRMAÇÃO</pt>
+            <nl>KRAV</nl>
+            <no>KRAV</no>
+        </string>
+
+        <string id="BACK">
+            <en>BACK</en>
+            <es>ATRÁS</es>
+            <de>ZURÜCK</de>
+            <it>INDIETRO</it>
+            <fr>RETOUR</fr>
+            <ru>НАЗАД</ru>
+            <pt>VOLTAR</pt>
+            <nl>TILLBAKA</nl>
+            <no>TILBAKE</no>
+        </string>
+
+        <string id="SETTINGS">
+            <en>SETTINGS</en>
+            <es>AJUSTES</es>
+            <de>EINSTELLUNGEN</de>
+            <it>IMPOSTAZIONI</it>
+            <fr>PARAMÈTRES</fr>
+            <ru>НАСТРОЙКИ</ru>
+            <pt>DEFINIÇÕES</pt>
+            <nl>INSTÄLLNINGAR</nl>
+            <no>INNSTILLINGER</no>
+        </string>
+
+        <string id="YES">
+            <en>YES</en>
+            <sk>ÁNO</sk>
+            <es>SÍ</es>
+            <de>JA</de>
+            <it>SÌ</it>
+            <fr>OUI</fr>
+            <ru>ДА</ru>
+            <pt>SIM</pt>
+            <nl>JA</nl>
+            <no>JA</no>
+        </string>
+
+        <string id="NO">
+            <en>NO</en>
+            <sk>NIE</sk>
+            <es>NO</es>
+            <de>NEIN</de>
+            <it>NO</it>
+            <fr>NON</fr>
+            <ru>НЕТ</ru>
+            <pt>NÃO</pt>
+            <nl>NEJ</nl>
+            <no>NEI</no>
+        </string>
+
+        <string id="INSTRUCTIONS_CONTROLS">
+            <en>Tap the screen to drop your net into the sea. Swipe your finger across the screen to catch as many fish as you can.</en>
+            <es>Toca la pantalla para soltar la red en el mar. Desliza el dedo por la pantalla para pescar todos los peces que puedas.</es>
+            <de>Tippe auf den Bildschirm, um dein Netz ins Meer auszuwerfen. Wische mit deinem Finger über den Bildschirm, um möglichst viele Fische zu fangen.</de>
+            <it>Tocca lo schermo per lanciare la tua rete in mare. Fai scorrere il dito sullo schermo per catturare quanti più pesci puoi.</it>
+            <fr>Touchez l'écran pour jeter votre filet dans la mer. Faites glisser votre doigt sur l'écran pour pêcher le plus de poissons possible.</fr>
+            <ru>Нажмите на экран, чтобы бросить свою сеть в море. Проведите пальцем по экрану, чтобы поймать столько рыбы, сколько сможете.</ru>
+            <pt>Toque na tela para soltar sua rede no mar. Passe o dedo pela tela para pegar o maior número possível de peixes.</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="INSTRUCTIONS_AIM">
+            <en>Catch as many fish and treasures as you can. Upgrade your net and fill your trophy room.</en>
+            <es>Pesca y recoge todos los tesoros que puedas. Mejora tu red e intenta llenar tu sala de trofeos.</es>
+            <de>Fange möglichst viele Fische und Schätze. Verbessere dein Netz und fülle deinen Trophäenraum.</de>
+            <it>Cattura quanti più pesci e tesori puoi. Potenzia la tua rete e riempi la tua sala dei trofei.</it>
+            <fr>Attrapez les poissons et les trésors. Améliorez votre filet et remplissez votre salle de trophées.</fr>
+            <ru>Поймай как можно больше рыбы и сокровищ. Модернизируйте свою сеть и заполните свою комнату трофея.</ru>
+            <pt>Pegue o maior número possível de peixes e tesouros. Atualize sua rede e encha sua sala de troféus.</pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+        <string id="VOID">
+            <en></en>
+            <es></es>
+            <de></de>
+            <it></it>
+            <fr></fr>
+            <ru></ru>
+            <pt></pt>
+            <nl></nl>
+            <no></no>
+        </string>
+
+    </strings>
+</stringresources>
