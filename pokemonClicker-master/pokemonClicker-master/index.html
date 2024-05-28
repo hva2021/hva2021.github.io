@@ -1,0 +1,82 @@
+﻿<html lang="en" ng-app="PKMN">
+<head>
+  <meta charset="utf-8">
+  <title>Pokemon game</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.14.3/ui-bootstrap-tpls.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-select/0.13.2/select.min.js"></script>
+
+   <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+   <link href="css/bootstrap.min.css" rel="stylesheet">
+   <link href="css/common.css" rel="stylesheet">
+<style>
+body{
+  padding-top:70px;
+}
+.thumbnail{
+  height:350px;
+}
+img{
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+</style>
+</head>
+<body ng-controller="GameController as game" ng-cloak>
+  <nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+     <!-- Add Logo -->
+</div>
+</div>
+  </div>
+</nav>
+<div class="container-fluid">
+   <div class="row">
+     <div class="col-xs-3">
+       <ul>
+         <li ng-repeat="(value,key) in player.caughtType track by $index">
+            {{value}}: {{key}}/{{player.caughtMaxType[value + 'Max']}}
+         </li>
+      </ul>
+     </div>
+     <div class="col-xs-4">
+       <div class="thumbnail">
+         <div style="height:150px;">
+     <img ng-src="images/{{currentPokemonImage}}.gif"/>
+   </div>
+      <div class="caption text-center">
+        <h3>{{pokemonList[currentPokemon].name}}</h3>
+        <p>Catch rate:{{pokemonList[currentPokemon].chance}}</p>
+        <p>{{catchText}}</p>
+        <p>
+          <button class="btn btn-primary" role="button" ng-click="catchPokemon(currentPokemon)">Catch</button>
+        </p>
+      </div>
+    </div>
+     </div>
+     <div class="col-xs-5">
+        <ul>
+          <li ng-repeat="pokemon in player.caughtPokemon track by $index">
+            {{pokemon.name + " | caught: " + pokemon.amount + " | " + pokemon.damage.toFixed(2)}}
+          </li>
+        </ul>
+     </div>
+   </div>
+
+</div>
+<footer>
+    <script src="javascript/App.js"></script>
+    <script src="javascript/Services/pokemonData.js"></script>
+
+    <script src="javascript/Controllers/GameController.js"></script>
+    <script src="helpers/common.js"></script>
+</footer>
+
+</body>
+</html>
