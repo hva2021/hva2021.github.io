@@ -1,0 +1,13 @@
+{
+"companyName": "WebGameApp",
+"productName": "Crazy Fishing",
+"dataUrl": "Crazy Fishing.data.unityweb",
+"wasmCodeUrl": "Crazy Fishing.wasm.code.unityweb",
+"wasmFrameworkUrl": "Crazy Fishing.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#2e3338",
+"cacheControl": {"default": "must-revalidate"}
+}
