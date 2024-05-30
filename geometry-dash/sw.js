@@ -1,1 +1,0 @@
-No Content: https://g.vseigru.net/7/igra-mir-geometriya-dash/sw.js
