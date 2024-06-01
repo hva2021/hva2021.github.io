@@ -1,0 +1,118 @@
+
+rybar.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hlava
+  rotate: false
+  xy: 598, 154
+  size: 80, 100
+  orig: 80, 100
+  offset: 0, 0
+  index: -1
+hlava1
+  rotate: false
+  xy: 680, 154
+  size: 80, 100
+  orig: 80, 100
+  offset: 0, 0
+  index: -1
+hlava2
+  rotate: false
+  xy: 762, 154
+  size: 80, 100
+  orig: 80, 100
+  offset: 0, 0
+  index: -1
+hlava3
+  rotate: false
+  xy: 844, 154
+  size: 80, 100
+  orig: 80, 100
+  offset: 0, 0
+  index: -1
+hlava4
+  rotate: false
+  xy: 926, 154
+  size: 80, 100
+  orig: 80, 100
+  offset: 0, 0
+  index: -1
+lod
+  rotate: false
+  xy: 2, 31
+  size: 449, 223
+  orig: 449, 223
+  offset: 0, 0
+  index: -1
+noha1
+  rotate: true
+  xy: 787, 112
+  size: 40, 58
+  orig: 40, 58
+  offset: 0, 0
+  index: -1
+noha2
+  rotate: true
+  xy: 847, 112
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+oci
+  rotate: true
+  xy: 1008, 231
+  size: 23, 4
+  orig: 23, 4
+  offset: 0, 0
+  index: -1
+ruka1
+  rotate: false
+  xy: 598, 111
+  size: 99, 41
+  orig: 99, 41
+  offset: 0, 0
+  index: -1
+ruka2
+  rotate: false
+  xy: 2, 2
+  size: 74, 27
+  orig: 74, 27
+  offset: 0, 0
+  index: -1
+stehno1
+  rotate: true
+  xy: 78, 13
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: -1
+stehno2
+  rotate: false
+  xy: 565, 50
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: -1
+telo
+  rotate: true
+  xy: 453, 29
+  size: 69, 110
+  orig: 69, 110
+  offset: 0, 0
+  index: -1
+udica
+  rotate: false
+  xy: 453, 100
+  size: 143, 154
+  orig: 143, 154
+  offset: 0, 0
+  index: -1
+vedro
+  rotate: true
+  xy: 699, 95
+  size: 57, 86
+  orig: 57, 86
+  offset: 0, 0
+  index: -1
