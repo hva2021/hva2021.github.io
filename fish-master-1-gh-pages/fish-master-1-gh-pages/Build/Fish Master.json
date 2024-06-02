@@ -1,0 +1,16 @@
+{
+"companyName": "Funny Games",
+"productName": "Fish Master",
+"productVersion": "1.1",
+"dataUrl": "Fish Master.data.unityweb",
+"wasmCodeUrl": "Fish Master.wasm.code.unityweb",
+"wasmFrameworkUrl": "Fish Master.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.9f1"
+}
