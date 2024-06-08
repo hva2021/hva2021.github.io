@@ -1,1 +1,0 @@
-document.querySelector('#rate').href = `https://chromewebstore.google.com/detail/${chrome.runtime.id}/reviews`;
